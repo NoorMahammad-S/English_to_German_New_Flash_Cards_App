@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f363518e-97ef-4ec2-9082-7cf0021076ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/data/.gitignore" afterDir="false" />
+    <list default="true" id="f363518e-97ef-4ec2-9082-7cf0021076ec" name="Changes" comment="Initial Commit">
+      <change beforePath="$PROJECT_DIR$/data/.gitignore" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +139,28 @@
       <option name="presentableId" value="Default" />
       <updated>1676649611489</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1698033647142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698033647142</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1698033653413</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1698033653413</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1698034687660</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1698034687660</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -151,5 +173,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
