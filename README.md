@@ -1,5 +1,3 @@
-
-```markdown
 # New Flash Card App
 
 Welcome to the Flash Card Program repository! This program is designed to help you learn and memorize new words and their translations.
