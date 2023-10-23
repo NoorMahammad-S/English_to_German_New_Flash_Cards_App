@@ -6,6 +6,8 @@ It uses a graphical user interface built with Tkinter in Python.
 This is a simple Python application for learning English to German flashcards. It provides a graphical user interface for users to flip through flashcards
 and mark their knowledge of the translations.
 
+![Flash Card Program](https://github.com/NoorMahammad-S/English_to_German_New_Flash_Cards_App/blob/master/images/Flash%20Card%20Program.JPG)
+
 ## Getting Started
 
 These instructions will help you set up and run the Flash Card Program on your local machine.
@@ -35,13 +37,13 @@ git clone https://github.com/NoorMahammad-S//flash-card-program.git
 2. Navigate to the project directory:
 
 ```bash
-cd New_Flash_Cards_App
+cd English_to_German_New_Flash_Cards_App
 ```
 
 3. Run the program:
 
 ```bash
-python New_Flash_Cards_App.py
+python English_to_German_New_Flash_Cards_App.py
 ```
 
 ## Usage
