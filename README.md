@@ -1,4 +1,4 @@
-# New Flash Card App
+# English to German New Flash Card App
 
 Welcome to the Flash Card Program repository! This program is designed to help you learn and memorize new words and their translations.
 It uses a graphical user interface built with Tkinter in Python.
